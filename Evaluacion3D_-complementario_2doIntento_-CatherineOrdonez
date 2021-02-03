@@ -99,7 +99,7 @@ def hitpoint(xg,yg,zg):
     plotPlaneLine(xg,yg,zg,A,A1,A2,valArea)
     
 #__ Aquí el usuario ingrea los hitpoint de X, Y o si desea salir de la ejecución
-print("Press ENTER to continue or ESC to exit")
+print("Press ENTER (1 vez) to continue or ESC to exit")
 while True:
     #___Aquí el usuario si hace click en enter podrá ingresar el valor de los hit point
     if keyboard.is_pressed('ENTER'):
