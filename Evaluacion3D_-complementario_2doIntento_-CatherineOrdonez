@@ -118,5 +118,5 @@ while True:
         hitpoint(xg,yg,zg)
     #___Cuando presiona la tecla ESC se termina el programa
     if keyboard.is_pressed('Esc'):
-        print("La ejecición del programa a terminado")
+        print("La ejecición del programa a terminado :)")
         break
